@@ -1,1 +1,1 @@
-sed -i 's/My first readme/updated readme/' README.md
+sed -i 's/updated readme/updated readme on Github.com/' README.md
